@@ -1,4 +1,4 @@
-# Windows Server 2019( in progress
+# Windows Server 2019( in progress)
 
 
 ## Introduction
@@ -53,7 +53,7 @@ Here you can enter a query for a specific IP address. This address used the TCP.
  
 
 
-![image](https://github.com/dbriones49/Wireshark/assets/143753667/ddff9d7c-5933-4175-b42e-cbee502f1121)
+
 
 # Conclusion
 
