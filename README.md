@@ -29,7 +29,7 @@ During deployment, the server must be promoted as a Domain controller and a new 
 
 
 
-# Statistics Filter
+# Stats
 
 
 
