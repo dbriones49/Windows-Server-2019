@@ -130,7 +130,7 @@ We repeat this step to create the predefined rules for File and Print Sharing an
 ![image](https://github.com/user-attachments/assets/daf366d2-b675-48ae-8eb1-10233bd398f6)
 
 
-The steps are then repeated for the outbound predefined rules.
+The steps are then repeated for the outbound predefined rules for ADDS,  File and Print sharing, and WMI.
 
 
 
@@ -142,6 +142,41 @@ The steps are then repeated for the outbound predefined rules.
 
 
 
+Lastly, the custom ping inboud rule can be configured by Selecting a custom rule and then chosing ICMPV4
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1e2e173a-1e73-49dc-8f44-c90988a72865)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/9badb348-afea-4525-9509-dd4e17a9bffe)
+
+
+
+In a command prompt, the command gpdate /force will complete the group policy update and force the policy to take effect.
+
+
+
+
+![image](https://github.com/user-attachments/assets/5b35bc29-3275-40f6-aa10-878122e798dd)
+
+
+To view the results, the CMD command gpresult /r can be used.
+
+
+
+
+![image](https://github.com/user-attachments/assets/26a68d58-9ce9-49b6-ba45-4ee898865adf)
+
+
+
+
+![image](https://github.com/user-attachments/assets/9168880e-f3c1-4f0e-9f21-f351d731ca4b)
 
 
 # Stats
