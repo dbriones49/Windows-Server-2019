@@ -25,6 +25,13 @@ During deployment, the server must be promoted as a Domain controller and a new 
 ![image](https://github.com/user-attachments/assets/7c2fc30d-a506-48f9-a5c1-7259aa209994)
 
 
+The VM connection will be established through Bridge Adapter and the IP Scope will be confirmed accordingly to ensure a static IP address will be used.
+
+
+![image](https://github.com/user-attachments/assets/cf445dc0-628e-4bea-b4ab-602352897c28)
+
+
+
 We can confirm the domain controller has been deployed and all the domains with the forest.
 
 ![image](https://github.com/user-attachments/assets/91931188-5c74-4708-9d6b-ebfe5bcf20d5)
