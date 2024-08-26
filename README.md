@@ -39,6 +39,13 @@ We can confirm the domain controller has been deployed and all the domains with 
 
 
 
+Our internet connectivity has now also been confirmed.
+
+
+
+![image](https://github.com/user-attachments/assets/2ac065b6-f7eb-4413-bc38-c9a063e53878)
+
+
 
 
 # Stats
@@ -47,7 +54,7 @@ We can confirm the domain controller has been deployed and all the domains with 
 
 
 
-Here you can enter a query for a specific IP address. This address used the TCP.
+
 
 
 
