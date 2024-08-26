@@ -9,7 +9,7 @@ In today's dynamic IT landscape, Active Directory Domain Services (AD DS) plays 
 - Add standard OUs.
 - Add Firewall GPO on the DC for DISABLE firewall
 - Allow inboud AD, File and Print Sharing, and WMI.
-- Allow OUtbound AD<L Fiel and Print Sharing, And WMI.
+- Allow OUtbound AD<L File and Print Sharing, And WMI.
 - Allw inbound Custom Ping ICMPv4.
 
 
@@ -60,6 +60,10 @@ Now, the Orgainization Units must be set up. This can be configured by going to 
 
 
 ![image](https://github.com/user-attachments/assets/aee3d643-6ab7-4e84-af6a-b441b492e4b4)
+
+
+
+Next, we will configure group Policy Management. This can be configured by going to Tools>Group Policy Management.
 
 
 
