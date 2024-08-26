@@ -47,6 +47,24 @@ Our internet connectivity has now also been confirmed.
 
 
 
+Now, the Orgainization Units must be set up. This can be configured by going to Tools>Users and Computers.  Creating Organizational Units (OUs) in Active Directory is essential for managing and organizing network resources, as they allow administrators to group users, computers, and other objects based on specific criteria such as department, location, or function. This hierarchical structure not only simplifies delegation of administrative tasks and application of Group Policies but also enhances security and operational efficiency.
+
+
+
+
+![image](https://github.com/user-attachments/assets/500f34df-1a24-406d-aac3-636c2f2310a4)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/aee3d643-6ab7-4e84-af6a-b441b492e4b4)
+
+
+
+
+
 
 # Stats
 
