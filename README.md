@@ -9,8 +9,10 @@ In today's dynamic IT landscape, Active Directory Domain Services (AD DS) plays 
 - Add standard OUs.
 - Add Firewall GPO on the DC for DISABLE firewall
 - Allow inboud AD, File and Print Sharing, and WMI.
-- Allow OUtbound AD<L File and Print Sharing, And WMI.
-- Allw inbound Custom Ping ICMPv4.
+- Allow Outbound AD, File and Print Sharing, And WMI.
+- Allow inbound Custom Ping ICMPv4.
+
+Adding firewall Group Policy Objects (GPOs) on the domain controller to disable the firewall is essential for ensuring that critical services such as Active Directory, file and print sharing, and Windows Management Instrumentation (WMI) can communicate effectively without being blocked. Additionally, configuring specific rules to allow inbound and outbound traffic for these services, along with permitting inbound custom Ping and ICMPv4, facilitates necessary network operations and monitoring while maintaining a controlled security posture.
 
 
 # Active Directory installation
