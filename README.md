@@ -63,7 +63,7 @@ Now, the Orgainization Units must be set up. This can be configured by going to 
 
 
 
-Next, we will configure group Policy Management. This can be configured by going to Tools>Group Policy Management, and then launching the wizzard.
+Next, we will configure group Policy Management. This can be configured by going to Tools>Group Policy Management, and then creating it in the domain.
 
 ![image](https://github.com/user-attachments/assets/45919401-ef80-4ff0-9b45-d42d43a7a861)
 
