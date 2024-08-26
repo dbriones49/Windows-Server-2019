@@ -63,11 +63,82 @@ Now, the Orgainization Units must be set up. This can be configured by going to 
 
 
 
-Next, we will configure group Policy Management. This can be configured by going to Tools>Group Policy Management, and then creating it in the domain.
+Next, we will configure group Policy Management. This can be configured by going to Tools>Group Policy Management, and then creating it in the domain. For this example we will create a Firewall Group Policy.
 
 ![image](https://github.com/user-attachments/assets/45919401-ef80-4ff0-9b45-d42d43a7a861)
 
 
+
+Right click on Firewall and click edit. The in the Management editor go to Computer Configuration>Policies>Windows Settings>Security Seetings. From here we can enter the Windows Defender Settings, and adjust the inbound and outbound rules.
+
+
+
+
+![image](https://github.com/user-attachments/assets/d1f9caaa-6c1d-4a9e-9b03-e26484ab0263)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/58a3de42-9626-47c4-a026-ce61408caab1)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b8c3d2f4-a77b-4566-b52f-ff3223e2b7be)
+
+
+
+
+
+
+
+Here we are allowing the inbound traffic.
+
+
+
+![image](https://github.com/user-attachments/assets/bf9549b1-7109-4128-ab42-4162c21faf1f)
+
+
+
+
+To create the inbound new rule, go to Inbound>New Rule, and then select Predefined ADDS, and allow the connection.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b43ab740-9669-4d34-994b-6a52c4032eb4)
+
+
+
+
+We repeat this step to create the predefined rules for File and Print Sharing and WMI.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/9ed20f90-5cdf-4bf9-986c-498b48c4fa0a)
+
+
+
+
+![image](https://github.com/user-attachments/assets/daf366d2-b675-48ae-8eb1-10233bd398f6)
+
+
+The steps are then repeated for the outbound predefined rules.
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2599803b-a012-49d7-96e2-519d8193095f)
 
 
 
