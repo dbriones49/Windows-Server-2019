@@ -197,7 +197,80 @@ Once the server has beeen renamed, and a static IP address is used, we launch th
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/1ffd04d6-d493-47aa-9fa0-7cace6d3e37c)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/58682b61-b54b-4ff7-abc9-26695e217e27)
+
+
+
+
+To configure the zones, we open the DNS Manager console. Setting up DNS zones is crucial as it helps organize and manage the namespace for the network, ensuring that domain names are correctly mapped to their corresponding IP addresses. Properly configured zones enhance network efficiency, improve resolution speed, and enable better control over DNS records, which are essential for the overall functionality and security of the network. Once the zone options are visible, right click on the zone to launch the New Zone Wizard. 
+
+
+![image](https://github.com/user-attachments/assets/08009270-6d6b-4547-9ba9-81f7407b0f8b)
+
+
+
+![image](https://github.com/user-attachments/assets/3cb05102-3f3a-455c-9ce0-3d0182f39b66)
+
+
+The forward look up zones have been completed and the same process will be completed to create the Reverse look up zones. 
+
+
+
+![image](https://github.com/user-attachments/assets/39a4b21e-ce72-4cde-ae9a-887534c4a6ac)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/a4e530c3-b20b-4c84-a2f7-2a7b87fd7d6f)
+
+
+
+
+Once done, we are ready to create other records associated with the DNS and zones.
+
+
+![image](https://github.com/user-attachments/assets/77d00a45-be77-467d-88b2-44e32078d7a3)
+
+
+
+
+
+Host record has been completed.
+
+
+
+![image](https://github.com/user-attachments/assets/ac227291-bef6-49d2-8f53-6ac7421b6b3d)
+
+
+
+The pointer record will map the IP address to the domain name. By right clicking revers look up zone and selecting new pointer, you can map the IP address and browse for the host name. 
+
+
+
+![image](https://github.com/user-attachments/assets/750242bc-c9ba-4598-aeed-ee153f13d256)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4e991cca-2ee4-4ee0-8cd9-c0379b8d486d)
+
+
+
+
+
 
 
 
