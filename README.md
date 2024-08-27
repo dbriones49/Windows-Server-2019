@@ -181,8 +181,6 @@ To view the results, the CMD command gpresult /r can be used.
 ![image](https://github.com/user-attachments/assets/9168880e-f3c1-4f0e-9f21-f351d731ca4b)
 
 
-# Stats
-
 
 
 
@@ -198,7 +196,7 @@ To view the results, the CMD command gpresult /r can be used.
 
 # Conclusion
 
-
+Deploying a domain controller like Active Directory Domain Services (ADDS) is crucial for managing user authentication and authorization within a network, ensuring that only authorized users can access specific resources. From a security standpoint, it centralizes identity management, enabling robust policy enforcement, streamlined access control, and enhanced auditing capabilities, which collectively help mitigate risks and protect sensitive data
 
 
 
