@@ -184,13 +184,20 @@ To view the results, the CMD command gpresult /r can be used.
 
 
 
+# Deploy and Configure DNS Server
 
-
-
+Setting up a new DNS server is crucial in a newly engineered network as it facilitates the resolution of domain names to IP addresses, enabling seamless communication between devices. Additionally, integrating DNS with Active Directory Domain Services (ADDS) ensures efficient resource location and management, enhancing overall network performance and reliability. Here we will configure a new DNS server. 
 
 
  
 
+Once the server has beeen renamed, and a static IP address is used, we launch the Add roles and features wizzard.
+
+![image](https://github.com/user-attachments/assets/603a03a8-b953-4d24-b9a9-e0abba8ca0c8)
+
+
+
+![image](https://github.com/user-attachments/assets/1ffd04d6-d493-47aa-9fa0-7cace6d3e37c)
 
 
 
